@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 from api.v1.app import app as app
 from flask import Flask, make_response, jsonify, json
-import unittest
 import pprint
+import unittest
 import ast
 import os
 
